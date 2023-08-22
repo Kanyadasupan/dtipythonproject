@@ -1,0 +1,11 @@
+print('wellcome to "sau"',end='')
+print("wellcome to 'DTI',end='")
+print("_________________")
+print('wellcome to \'SAU\'')
+print("wellcome to \"SAU\"")
+print(2547)
+print(2547.2024)
+print(True)
+print(False)
+print(20*24+2)#exprension นิพจน์
+print(True or False and False)
